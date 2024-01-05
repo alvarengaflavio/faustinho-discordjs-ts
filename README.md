@@ -15,11 +15,11 @@
 1. Clone o repositório e crie um arquivo chamado `.env` e preencha-o conforme abaixo
 
 ```js
-TOKEN=SEUTOKENAQUI
+TOKEN=SEU_TOKEN_AQUI
 CLIENT_ID=ID DO SEU BOT
 PREFIX=!
-MONGO_URI=SUA STRING DE CONEXÃO COM O MONGO
-MONGO_DATABASE_NAME=NOME DO SEU BANCO DE DADOS
+MONGO_URI=SUA_STRING_DE_CONEXÃO_COM_O_MONGO
+MONGO_DATABASE_NAME=NOME_DO_SEU_BANCO_DE_DADOS
 ```
 
 2. Instale o TypeScript. Para instalar o TypeScript, você pode executar o seguinte comando no seu terminal. Isso instalará a versão mais recente do TypeScript globalmente em seu computador. (Você pode pular esta etapa se já tiver o TypeScript instalado)
